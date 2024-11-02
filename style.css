@@ -1,48 +1,48 @@
 .wrapper {
-    display: flex;
-    flex-direction: column;    
-    width: 100%;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
-    margin: 0 auto;
-
+  margin: 0 auto;
 }
 
 header {
-    background-color: crimson;
-    font-size: 50px;
-    text-align: center;
-    color: rgb(252, 252, 252);
-    margin: 20px;
-    background-size: 100%;
-    width: 600px;
-
-
+  background-color: crimson;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(252, 252, 252);
+  margin: 20px;
+  background-size: 100%;
+  width: 600px;
 }
 
 table {
-    border: 1px solid grey;
-    width: 600px;
-    margin: 20px;
+  border: 1px solid grey;
+  width: 600px;
+  margin: 20px;
 }
 
 td {
-    border: 1px solid grey;
-    width: 400px;
-    height: 50px;
-    text-align: center;
+  border: 1px solid grey;
+  width: 400px;
+  height: 50px;
+  text-align: center;
 }
 
 caption {
-    background-color: crimson;
-    color: white;
-    text-transform: uppercase;
+  background-color: crimson;
+  color: white;
+  text-transform: uppercase;
 }
 
-
 a {
-    color: rgb(12, 65, 163);
+  color: rgb(12, 65, 163);
+}
+
+.info {
+  font-weight: 900;
 }
